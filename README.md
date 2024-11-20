@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼  𝗜'𝗺 𝘅𝗔𝘅𝗲𝗲
+# 𝗛𝗲𝗹𝗹𝗼  𝗜'𝗺 Hubert
 ![Wyświetlenia](https://komarev.com/ghpvc/?username=xAxee&color=brightgreen&style=flat&label=Profile+Views) ![Discord](https://dcbadge.limes.pink/api/shield/380325825133674517?theme=discord&style=flat&logoColor=7289da)
 ## 💡 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 𝟭𝟴 𝘆𝗼 𝗵𝗶𝗴𝗵 𝘀𝗰𝗵𝗼𝗼𝗹 𝘀𝘁𝘂𝗱𝗲𝗻𝘁. 𝗜 𝗹𝗼𝘃𝗲 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗮𝗻𝗱 𝘀𝗲𝗹𝗳-𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁. \
