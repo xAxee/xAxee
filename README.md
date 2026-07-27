@@ -1,47 +1,88 @@
-# 👋 Hello, I'm Hubert
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=xAxee&color=brightgreen&style=flat&label=Profile+Views)
-![Discord](https://dcbadge.limes.pink/api/shield/380325825133674517?theme=discord&style=flat&logoColor=7289da)
+# Hi, I'm Hubert 👋
 
-## 💡 About Me
+### Full-Stack Developer focused on .NET and Angular
 
-🎓 I'm a Computer Science student passionate about backend development and real-world problem solving.  
-💻 I specialize in **C# and the .NET ecosystem**, with experience in building REST APIs, desktop apps (WPF), and small ML-powered services using ML.NET.  
-🛠 I’m continuously expanding my skills and contributing to personal projects — most of which are open source and available here on GitHub.
+I build backend systems, web applications, and developer tools with an emphasis on clean architecture, reliability, and practical problem-solving.
 
----
+[![Website](https://img.shields.io/badge/Website-hubertiwan.pl-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hubertiwan.pl/)
+[![DistributedChat](https://img.shields.io/badge/Live_Demo-DistributedChat-2ea44f?style=for-the-badge\&logo=rocket\&logoColor=white)](https://chat.hubertiwan.pl)
 
-## 🧠 Tech Stack
+</div>
 
-- ⚙️ **Main:** C#, .NET, ASP.NET Core, WPF, Entity Framework, ML.NET
-- 🌐 Web: HTML, CSS, JavaScript, TypeScript, Vue, Laravel, PHP
-- 📱 Mobile: Kotlin (Android), Java (legacy apps)
-- 🧰 Tools: Git, VS Code, Visual Studio, Postman, SQL Server, Jira
+## About me
 
----
+* 💻 Full-Stack Developer working primarily with **C#, .NET, ASP.NET Core, Angular, and TypeScript**
+* 🧩 Interested in backend architecture, distributed systems
+* 🐳 Building complete applications with **Docker, PostgreSQL, RabbitMQ, Nginx, and GitHub Actions**
+* 🎓 Computer Science student continuously developing my backend, frontend, testing, and DevOps skills
+* ⛰️ Outside of programming, I enjoy mountain hiking, running, and other outdoor activities
 
-## 🧪 Side Projects
+## Featured projects
 
-Some of my public C#/.NET projects:
-- [`CleanSpeakAPI`](https://github.com/xAxee/CleanSpeakAPI) – REST API using ML.NET to classify messages (friendly/offensive)
-- [`WPF_ProjectManagement`](https://github.com/xAxee/WPF_ProjectManagement) – A desktop project/task manager in WPF + MVVM + EF Core
-- [`CodeClipboardPlus`](https://github.com/xAxee/CodeClipboardPlus) – VS Code extension to bulk copy files with project structure
+### [DistributedChat](https://github.com/xAxee/DistributedChat)
 
-See more at: [github.com/xAxee](https://github.com/xAxee)
+A multi-instance real-time chat application demonstrating how **SignalR and RabbitMQ** can distribute events between ASP.NET Core instances.
+The project includes authentication, public and private rooms, message persistence, health checks, tests, containerized infrastructure, and a complete CI/CD pipeline.
 
----
+`.NET 10` `ASP.NET Core` `Angular 21` `SignalR` `RabbitMQ` `PostgreSQL` `Docker` `Nginx` `GitHub Actions`
 
-## 🚀 Goals
-
-- 🧭 Become a strong backend developer in the .NET world
-- 🤝 Collaborate on open-source and real-world projects
-- ⌛ Constantly improve through learning and mentoring others
+[Repository](https://github.com/xAxee/DistributedChat) · [Live demo](https://chat.hubertiwan.pl)
 
 ---
 
-## 🏆 Stats
+### [CodeClipboardPlus](https://github.com/xAxee/CodeClipboardPlus)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xAxee&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xAxee&langs_count=5&theme=dark&hide_border=true" />
+A published Visual Studio Code extension for copying project files together with their directory structure.<br>
+It supports `.gitignore`, configurable exclusions, file limits, and multiple copying modes.
+
+`TypeScript` `VS Code API` `Visual Studio Marketplace`
+
+[Repository](https://github.com/xAxee/CodeClipboardPlus) · [Marketplace](https://marketplace.visualstudio.com/items?itemName=HubertIwan.codeclipboardplus)
+
+## Tech stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,rabbitmq" alt="Backend technologies" />
 </p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,vue,html,css" alt="Frontend technologies" />
+</p>
+
+### Infrastructure and tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,mockoon" alt="Infrastructure and development tools" />
+</p>
+
+## Current focus
+
+* Distributed and event-driven backend architecture
+* Clean Architecture and maintainable application structure
+* Automated testing and quality gates
+* Containerized deployments and CI/CD
+* Building projects from initial architecture to production deployment
+
+## GitHub statistics
+
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=xAxee&show_icons=true&hide_border=true&theme=dark&show=prs_merged_percentage&hide=issues" alt="Hubert's GitHub statistics" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xAxee&layout=compact&langs_count=8&hide_border=true&theme=dark" alt="Most used languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+![Profile Views](https://komarev.com/ghpvc/?username=xAxee&color=brightgreen&style=for-the-badge&label=Profile+Views)
+
+</div>
