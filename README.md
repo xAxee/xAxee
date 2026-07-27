@@ -41,6 +41,11 @@ It supports `.gitignore`, configurable exclusions, file limits, and multiple cop
 
 [Repository](https://github.com/xAxee/CodeClipboardPlus) · [Marketplace](https://marketplace.visualstudio.com/items?itemName=HubertIwan.codeclipboardplus)
 
+## Contact
+
+- Website: [hubertiwan.pl](https://hubertiwan.pl/)
+- LinkedIn: [in/hubert-iwan](https://www.linkedin.com/in/hubert-iwan/)
+
 ## Tech stack
 
 ### Backend
@@ -77,8 +82,6 @@ It supports `.gitignore`, configurable exclusions, file limits, and multiple cop
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xAxee&layout=compact&langs_count=8&hide_border=true&theme=dark" alt="Most used languages" />
 
 </div>
-
----
 
 <div align="center">
 
